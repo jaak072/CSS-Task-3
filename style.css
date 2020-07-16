@@ -12,21 +12,23 @@ body{
     height: 1100px;
     background-color: #eae2e2;
 }
+.nav{
+    background-color: #fdfcfc;
+    padding: 20px;
+     
+}
+.nav h2{
+    padding-left: 40px;
+    color: #4a6d71;
+    font-family: 'Grenze Gotisch', cursive;
+
+}
 .navbar{
     width: 100%;
     height: 60px;
     background-color: #fdfcfc;
     color: black;
 }
-
-#navbar1 h2{
-    text-decoration: none;
-    padding-top:12px;
-    padding-left: 40px;
-    font-family: cursive;
-    
-}
-
 
 #navbar2{
     top: 0px;
@@ -45,7 +47,7 @@ body{
     padding-top: 15px;
 }
 
-a:hover{
+.navbar a:hover{
     cursor:pointer;
     color: red;
 }
