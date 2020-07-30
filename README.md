@@ -1,4 +1,5 @@
 # CSS-Task-3
+## link to direct view:- https://jaak072.github.io/CSS-Task-3/
 This project given by CampusX mentorship program and done by me(Jawed).
 In that project , make a page like that image in below use 2 navigation bar 
 One has scrollable but 2nd wasn't. And the 3rd part is so interesting creating a 
